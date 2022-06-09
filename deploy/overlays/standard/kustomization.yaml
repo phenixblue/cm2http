@@ -1,4 +1,6 @@
 resources:
   - ../../manifests/
+  - cm2http-cluster-rbac.yaml
+  - cm2http-ns.yaml
 
 namespace: cm2http-system

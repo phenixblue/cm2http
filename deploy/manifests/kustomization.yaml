@@ -1,10 +1,8 @@
 resources:
-  - cm2http-cluster-rbac.yaml
   - cm2http-deploy.yaml
   - cm2http-hpa.yaml
   - cm2http-ingress.yaml
   - cm2http-ns-rbac.yaml
-  - cm2http-ns.yaml
   - cm2http-pdb.yaml
   - cm2http-sa.yaml
   - cm2http-svc.yaml

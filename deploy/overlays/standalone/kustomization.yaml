@@ -1,6 +1,3 @@
 resources:
   - ../../manifests/
 
-patchesStrategicMerge:
-  - delete-cm2http-ns.yaml
-  - delete-cm2http-cluster-rbac.yaml
